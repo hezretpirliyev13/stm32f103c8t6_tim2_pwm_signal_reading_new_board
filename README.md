@@ -1,4 +1,4 @@
-# stm32f103c8t6_tim2_pwm_signal_reading_new_board
+# stm32f103c8t6_tim2_pwm_signal_reading_based_on_official_board
 As Salam alaikum brothers and sisters. i uploaded here stm32f103c8t6 microcontroller PWM signal reading by TIMER2 based on official board GENERIC STM32F1 
 Here is board link https://github.com/stm32duino/BoardManagerFiles/raw/main/package_stmicroelectronics_index.json
 you can download through that link on arduino ide.  Let me guide you guys how to download board on Arduino IDE
